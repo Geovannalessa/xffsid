@@ -1,0 +1,19 @@
+{
+  "name": "xffsid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geovannalessa/xffsid.git"
+  },
+  "author": "Geovanna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geovannalessa/xffsid/issues"
+  },
+  "homepage": "https://github.com/Geovannalessa/xffsid#readme"
+}
